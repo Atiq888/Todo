@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>TODO</title>
-	<link rel="stylesheet" type="text/css" href="{{asset('css/app.css')}}">
+	<link rel="stylesheet" type="text/css" href="/css/app.css">
 </head>
 <body>
 	@include('inc.navbar')
